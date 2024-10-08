@@ -16,5 +16,12 @@
 
 
 ### :email:	𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐌𝐞
-<a href=”https://www.linkedin.com/in/kiarash-sarafan/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/kiarash-sarafan/">
+    <img src="https://raw.githubusercontent.com/kiarashsarafann/kiarashsarafann/main/images/linkedin.png" alt=”Kiarash Sarafan | LinkedIn" width="30px"/>
+  </a>
+  <a href="https://t.me/Kiarash_Sarafan">
+    <img src="https://raw.githubusercontent.com/kiarashsarafann/kiarashsarafann/main/images/telegram.png" alt=”Kiarash Sarafan | Telegram" width="30px"/>
+  </a>
+</div>
