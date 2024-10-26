@@ -7,7 +7,7 @@
 ### :frowning_man: 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆
 
 
-- **Age**: 21  
+- **Age**: 22  
 - **Location**: Qeshm, Iran  
 - **Education**: Studying at National Skill University, Yazd  
 - **Experience**:  
